@@ -33,7 +33,7 @@ export default function LandingPage() {
       </div>
       <div className="flex justify-center mt-10 ">
         <a
-          href="https://github.com/AdiiCode7/Quill-Quotient-Blogs-Website/tree/dev"
+          href="https://github.com/MuhammadShariqShoaib/BlogWebsite.git"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-block px-4 py-2 bg-gray-800 text-white rounded-md hover:bg-gray-700 focus:outline-none focus:bg-gray-700 transition duration-300"
